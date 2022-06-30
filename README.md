@@ -1,4 +1,4 @@
-## Open-Bootcamp - Objetos- Get & Set - Ejercicio.
+## Open-Bootcamp - Objetos- Herencia - Ejercicio.
 Esta es mi resolución del ejercicio del modulo 9, del curso de Introducción a la Programación.
 
 ## Consignas
